@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 '''
 This is an example to create a dumbbell chart in Python.
 
-If not modified, this code will produce a chart like this:
 If you would like to provide your data and customize the graph, modify the variables in the section below.
 Please be aware that you need matplotlib installed in order for this to work.
 '''
