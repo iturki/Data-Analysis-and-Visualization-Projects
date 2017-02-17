@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 '''
 An example to create a dumbbell chart in Python.
-This is an stripped down example used in this post: http://turki.ws/?p=176
+This is an stripped down example used in this post: http://wp.me/p7oHLD-3d
 For a more customized example, see dembbell_plot.py
 
 '''
