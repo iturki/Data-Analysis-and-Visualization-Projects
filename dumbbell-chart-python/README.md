@@ -5,5 +5,5 @@ The code used in [this blog post](http://turki.ws/2017/02/19/%D8%B1%D8%B3%D9%85-
 Code file | Description
 ---|---------
 `dumbbbell_plot.py` | Plot a nice Dumbbell chart using Python
-`dumbbell_example.py` | Plot a tripped down version of the graph.
+`dumbbell_example.py` | Plot a basic version of the graph.
 
